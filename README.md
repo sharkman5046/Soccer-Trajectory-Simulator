@@ -1,5 +1,5 @@
 # Soccer-Trajectory-Simulator
-MATLAB interface that allows dynamical trajectory simulations of spherical objects
+MATLAB interface that allows dynamical trajectory simulations of spherical masses
 
 # Key Features
 * Plot trajectory of object in a 3D view
