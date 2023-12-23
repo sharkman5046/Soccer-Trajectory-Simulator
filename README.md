@@ -2,6 +2,6 @@
 MATLAB interface that allows dynamical trajectory simulations of spherical masses
 
 # Key Features
-* Plot trajectory of object in a 3D view
+* 3 degrees of freedom (3 translational)
 * Visualize initial vector conditions
-* Adjust settings for all simulation properties
+* Adjust properties for simulation environment
