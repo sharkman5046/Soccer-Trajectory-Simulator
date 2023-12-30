@@ -1,6 +1,8 @@
 # Soccer-Trajectory-Simulator
 MATLAB interface that allows dynamical trajectory simulations of spherical masses
 
+![Alt text](image.png)
+
 # Key Features
 * Provides 3 translational degrees of freedom for spherical dynamics (rotational degrees aren't significant)
 * Visualize initial vector conditions
